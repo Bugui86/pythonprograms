@@ -1,4 +1,4 @@
-print(f'PROGRAMA PARA LER UMA TEMPERATURA EM CELCIUS E CONVERTER PARA KELVIN\n')
+print('PROGRAMA PARA LER UMA TEMPERATURA EM CELCIUS E CONVERTER PARA KELVIN\n')
 
 celcius = float(input('Digite a temperatura em Celcius: '))
 
