@@ -1,4 +1,4 @@
-print(f'PROGRAMA PARA LER UM NÚMERO REAL E IMPRIMIR O SEU QUADRADO\n')
+print('PROGRAMA PARA LER UM NÚMERO REAL E IMPRIMIR O SEU QUADRADO\n')
 
 num = float(input('Digite o valor que deseja saber seu quadrado: '))
 
