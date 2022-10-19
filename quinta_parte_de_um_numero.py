@@ -1,4 +1,4 @@
-print(f'PROGRAMA PARA LER A QUINTA PARTE DE UM NÚMERO\n')
+print('PROGRAMA PARA LER A QUINTA PARTE DE UM NÚMERO\n')
 
 num = float(input('Digite o número que deseja saber a quinta parte: '))
 
