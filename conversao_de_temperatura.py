@@ -1,4 +1,4 @@
-print(f'PROGRAMA PARA CONVERTER A TEMPERATURA DE CELSIUS PARA FAHRENHEIT\n')
+print('PROGRAMA PARA CONVERTER A TEMPERATURA DE CELSIUS PARA FAHRENHEIT\n')
 
 celcius = float(input('Digite a temperatura (em Celcius) que deseja saber em Fahrenheit: '))
 
